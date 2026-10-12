@@ -95,37 +95,48 @@ Currently at **Netweb Technologies India Ltd.**, contributing to cloud platform 
 
 ## Featured Projects
 
-> Replace the example repository links below with the actual URLs of your published projects.
+### [Go Concurrency & Runtime Internals](https://github.com/aatish-nayarane/go-concurrency-internals)
 
-### [[Go Concurrency & Runtime Internals](https://github.com/aatish-narayane)](https://github.com/aatish-narayane)
 Practical Go examples covering goroutines, channels, context cancellation, fan-out/fan-in, scheduling, pointers, interfaces, and compiler escape analysis.
 
-**Focus:** Concurrency, synchronization, runtime internals, and memory behavior.
+**Focus:** Go concurrency, synchronization, runtime internals, and memory behavior.
 
-### [[Go CRUD API & Performance Profiling](https://github.com/aatish-narayane)](https://github.com/aatish-narayane)
+### [Go CRUD API & Performance Profiling](https://github.com/aatish-nayarane/go-backend-crud)
+
 A Go backend project demonstrating PostgreSQL integration, CRUD operations, database migrations, connection pooling, compiler escape analysis, and performance profiling.
 
 **Focus:** Go, PostgreSQL, pgx, pprof, CPU profiling, and memory profiling.
 
-### [[FastAPI + MongoDB Async](https://github.com/aatish-narayane)](https://github.com/aatish-narayane)
-A reusable asynchronous MongoDB integration for FastAPI, covering database lifecycle management and common CRUD operations.
+> If your CRUD repository uses a different name, replace `go-backend-crud` above with its exact repository URL.
+
+### [FastAPI + MongoDB Async](https://github.com/aatish-nayarane/fastapi-mongodb-async)
+
+An asynchronous MongoDB integration for FastAPI, covering database lifecycle management and CRUD operations.
 
 **Focus:** Python, FastAPI, asynchronous database access, and MongoDB.
 
-### [[Python Event Sourcing](https://github.com/aatish-narayane)](https://github.com/aatish-narayane)
+### [Python Event Sourcing](https://github.com/aatish-nayarane/python-event-sourcing)
+
 An example of event-sourced state management using domain events, event storage, and event replay.
 
 **Focus:** Python, event-driven design, and state reconstruction.
 
-### [[Python Circuit Breaker](https://github.com/aatish-narayane)](https://github.com/aatish-narayane)
+### [Python Circuit Breaker](https://github.com/aatish-nayarane/python-circuit-breaker)
+
 A resilience-pattern implementation demonstrating circuit states, failure handling, and recovery.
 
 **Focus:** Python, fault tolerance, and resilient backend services.
 
-### [[Python gRPC Microservices](https://github.com/aatish-narayane)](https://github.com/aatish-narayane)
+### [Python gRPC Microservices](https://github.com/aatish-nayarane/grpc-microservices-python)
+
 A service-to-service communication example using gRPC and Protocol Buffers.
 
 **Focus:** Python, gRPC, protobuf contracts, and distributed applications.
+
+### [Pub-Sub Service](https://github.com/aatish-nayarane/pub-sub-service)
+
+A publish-subscribe service project. See the repository README for its implementation details and setup instructions.
+
 
 ## Current Learning Focus
 
