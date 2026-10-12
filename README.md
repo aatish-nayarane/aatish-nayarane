@@ -153,10 +153,10 @@ A service-to-service communication example using gRPC and Protocol Buffers.
 
 ## Let's Connect
 
-- **Email:** [[aatishnarayane007@gmail.com](mailto:aatishnarayane007@gmail.com)](mailto:aatishnarayane007@gmail.com)
-- **LinkedIn:** [[Aatish Narayane](https://linkedin.com/in/aatish-narayane-491472191/)](https://linkedin.com/in/[aatish-narayane](https://github.com/aatish-narayane)-491472191/)
+- **Email:** [aatishnarayane007@gmail.com](mailto:aatishnarayane007@gmail.com)
+- **LinkedIn:** [Aatish Narayane](https://linkedin.com/in/aatish-narayane-491472191/)
 - **GitHub:** [aatish-narayane](https://github.com/aatish-narayane)
-- **HackerRank:** [[aatishnarayane01](https://hackerrank.com/profile/aatishnarayane01)](https://hackerrank.com/profile/aatishnarayane01)
+- **HackerRank:** [aatishnarayane01](https://www.hackerrank.com/profile/aatishnarayane01)
 
 ---
 
